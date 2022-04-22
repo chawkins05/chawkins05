@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a building a webpage.
+- 🔭 I’m currently working on a C# Basic Programming.
 - 🌱 I’m currently learning programming and video game development.
 - 📫 How to reach me: chawkins@gctcok.edu
 - 😄 Pronouns: she/her
