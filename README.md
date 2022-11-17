@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning on C# Basic Programming.
+- 🔭 I’m currently learning Advanced Programming - Junior Programming.
 - 🌱 I’m currently learning programming and video game development.
-- 📫 How to reach me: chawkins@gctcok.edu
+- 📫 How to reach me: chyra.hawkins@gctcok.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favorite video game is Rocket League.
